@@ -1,4 +1,4 @@
-let jmeno = prompt("Zadejte celé své jméno bez diakritiky: ".trim()).toLowerCase()
+let jmeno = prompt("Zadejte celé své jméno bez diakritiky: ").trim().toLowerCase()
 // const spatneZnaky = ["á","é","ě","í","ó","ú","ů","ý","ž","š","č","ř","ď","ť","ň"]
 // const spravneZnaky = ["a","e","e","i","o","u","u","y","z","s","c","r","d","t","n"]
 
